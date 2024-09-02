@@ -209,7 +209,7 @@ Do you really wish to run this command? (yes/no) [no] yes
 Membuat passport key:
 
 ```
-php artisan passport:keys
+php artisan key:generate
 ```
 
 Membuat link storage:
