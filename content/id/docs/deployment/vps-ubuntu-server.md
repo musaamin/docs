@@ -13,6 +13,10 @@ weight: 300
 toc: true
 ---
 
+## Video Tutorial
+
+[Video tutorial install Buku Masjid di VPS Ubuntu](https://www.youtube.com/watch?v=JYfRzlYLgM8).
+
 ## Install MariaDB 
 
 Update dan upgrade Ubuntu terlebih dahulu:
@@ -176,6 +180,10 @@ php artisan key:generate
 ```
 
 Membuka file `.env`:
+
+```
+nano .env
+```
 
 Sesuaikan konfigurasinya, seperti nama masjid, URL, timezone, dan database:
 
